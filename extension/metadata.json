@@ -1,0 +1,8 @@
+{
+  "uuid": "iphone-unlock@local",
+  "name": "iPhone Unlock",
+  "description": "Click the lock screen button or press Ctrl+Alt+U to verify the paired iPhone signal and unlock.",
+  "shell-version": ["50"],
+  "session-modes": ["user", "unlock-dialog"],
+  "version": 3
+}
