@@ -129,5 +129,3 @@ python3 gui.py --smoke-test
 ```
 
 界面烟雾测试需要正在运行的桌面会话，会短暂打开窗口后自动关闭，不进行配对或解锁。当前 26 项单元测试覆盖配置校验、单次信号门槛、会话筛选、停用行为、配对确认、连接模式和非音频通道安全校验。详细验证步骤见[测试与兼容性](TESTING.md)。
-
-项目仓库：[AnitaMax/iphone-proximity-unlock](https://github.com/AnitaMax/iphone-proximity-unlock)。其他硬件上的配对、休眠恢复和信号门槛仍需验证；不要将个人配置或系统蓝牙密钥加入仓库。
